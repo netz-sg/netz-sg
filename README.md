@@ -34,17 +34,43 @@
       </ul>
     </td>
 
-    <!-- RECHTE SPALTE: GITHUB STATS (Dracula Theme) -->
-    <td width="50%" valign="top">
-      <h2 align="center">📊 Performance Data</h2>
-      <div align="center">
-        <!-- Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=netz-sg&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&ring_color=33cc33" alt="Stats" width="100%" />
-        <br /><br />
-        <!-- Most Used Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netz-sg&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&langs_count=6" alt="Languages" width="100%" />
-      </div>
-    </td>
+    <!-- LINKE SPALTE: TECH STACK -->
+<td width="50%" valign="top" style="border: 0; padding-right: 10px;">
+  <h2 align="center">⚡ Engineering Stack</h2>
+  <div align="center">
+    <br />
+    <!-- Skill Icons -->
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,python,js,ts,html,css,tailwind,git,github,vscode,vercel&perline=4&theme=dark" alt="My Skills" />
+    </a>
+  </div>
+  <br />
+  <h3 align="center">👨‍💻 About Me</h3>
+  <ul style="text-align: left;">
+    <li><b>Focus:</b> Skalierbare Next.js Apps & Python.</li>
+    <li><b>Style:</b> Clean Code & Performance.</li>
+    <li><b>Location:</b> Web Development Universe.</li>
+  </ul>
+</td>
+
+<!-- RECHTE SPALTE: STATS (Korrigiert) -->
+<td width="50%" valign="top" style="border: 0; padding-left: 10px;">
+  <h2 align="center">📊 Performance Data</h2>
+  <div align="center">
+    
+    <!-- FIX: 'count_private=true' und 'include_all_commits=true' hinzugefügt für korrekte Zahlen -->
+    <!-- FIX: Breite entfernt, damit keine Verzerrung entsteht -->
+    
+    <img src="https://github-readme-stats.vercel.app/api?username=netz-sg&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&ring_color=33cc33&count_private=true&include_all_commits=true" alt="Stats" />
+    
+    <br /><br />
+    
+    <!-- Most Used Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netz-sg&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&langs_count=6" alt="Languages" />
+    
+  </div>
+</td>
+
   </tr>
 </table>
 
