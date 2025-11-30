@@ -1,80 +1,78 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=netz-sg&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20React%20%7C%20Python&descAlignY=55&descAlign=62" width="100%"/>
-</div>
+ 
+  <a href="https://github.com/netz-sg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hallo,+ich+bin+netz-sg+👋;Web+Developer+aus+Leidenschaft;Fokus+auf+React,+Next.js+%26+Python" alt="Typing SVG" />
+  </a>
 
-<div align="center">
-
-  ## 👋 Hallo, ich bin ein leidenschaftlicher Webentwickler!
-
-  > *Code is like humor. When you have to explain it, it’s bad.*
-
-  [![Profile Views](https://komarev.com/ghpvc/?username=netz-sg&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)](https://github.com/netz-sg)
-  
-</div>
-
----
-
-### 👨‍💻 Über Mich
-
-Ich bin ein ambitionierter **Hobby-Entwickler** mit einer Leidenschaft für moderne Webtechnologien. Mein Fokus liegt auf der Erstellung performanter Frontends und skalierbarer Lösungen. Ich liebe es, neue Frameworks zu lernen und Ideen in Code zu verwandeln.
-
-- 🔭 Aktuell arbeite ich an: **Erweiterung meiner Next.js Skills**
-- 🌱 Ich lerne gerade: **Advanced Python Patterns & Backend Architektur**
-- ⚡ Fun Fact: **Ich automatisiere gerne Dinge, die manuell nur 5 Minuten dauern würden.**
-
----
-
-### 🛠️ Tech Stack & Tools
-
-Hier sind die Technologien, mit denen ich primär arbeite:
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <br/>
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+
+  <p align="center">
+   Ich bin ein ambitionierter Entwickler, der es liebt, komplexe Probleme mit modernem Web-Technologien zu lösen.<br>
+   Mein Fokus liegt auf performanten Frontends und sauberer Backend-Logik.
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=netz-sg&label=Profile+Views&color=2ecc71&style=flat-square" alt="Profile Views" />
 
 </div>
 
----
+<br /><br />
 
-### 📈 GitHub Statistiken
+<table border="0" width="100%">
+    <tr border="0">
+        <td width="50%" valign="top" border="0">
+            <h3 align="center">🛠 Tech Stack & Arsenal</h3>
+            <div align="center">
+                <p>Frontend Core</p>
+                <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+                <img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+                <br/>
+                <img src="https://img.shields.io/badge/React-Frontend-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+                <img src="https://img.shields.io/badge/Next.js-Framework-black?style=flat-square&logo=next.js&logoColor=white" alt="Nextjs" />
+                <br/>
+                <img src="https://img.shields.io/badge/Tailwind_CSS-Styling-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+                <br/><br/>
+                <p>Backend & Scripting</p>
+                <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+                <img src="https://img.shields.io/badge/Node.js-Runtime-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+            </div>
+        </td>
+        <td width="50%" valign="top" border="0">
+            <h3 align="center">📊 Coding Aktivität</h3>
+            <div align="center">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netz-sg&layout=compact&theme=radical&hide_border=true&langs_count=5&bg_color=0D1117" alt="Top Languages" height="165px" />
+            </div>
+        </td>
+    </tr>
+</table>
 
 <div align="center">
   <br/>
-  
-  <a href="https://github.com/netz-sg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=netz-sg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="netz-sg's github stats" height="180" />
-  </a>
-  
-  <a href="https://github.com/netz-sg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netz-sg&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
-  </a>
-
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=netz-sg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=netz-sg&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="netz-sg's github stats" />
 </div>
 
----
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=netz-sg&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
+</div>
 
-### 📫 Kontakt
-
-Du hast eine Idee oder möchtest collaboraten?
+<br/><br/>
 
 <div align="center">
-  <a href="https://github.com/netz-sg">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  </div>
+
+### 🌱 Aktueller Fokus
+
+| 🔭 Woran ich arbeite | 🎯 Meine Ziele für dieses Jahr |
+| :--- | :--- |
+| Vertiefung von **Next.js 14** (App Router) | Meisterung von **TypeScript** in React Projekten |
+| Bauen von Fullstack-Apps mit Python Backends | Beitrag zu Open Source Projekten leisten |
+
+<br/>
+<p align="center">
+  <i>Let's connect and build something amazing!</i>
+</p>
+
+<a href="https://github.com/netz-sg">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="Follow" />
+</a>
+
+</div>
