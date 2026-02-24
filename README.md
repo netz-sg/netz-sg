@@ -1,25 +1,56 @@
-<p align="right"><a href="https://buymeacoffee.com/sgnetz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="217" alt="Buy Me A Coffee"></a></p>
+<div align="center">
 
-# Hey, I'm NETZ-SG
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header" width="100%" />
 
-Full-stack dev from Germany. I build web apps with Next.js, Sanity and Supabase — mostly because I got tired of WordPress.
+# NETZ-SG
 
-I like shipping things that actually work. Clean UI, fast APIs, solid infrastructure. Self-hosted on Hetzner with Coolify because I prefer owning my stack.
+**Full-Stack Developer** · Germany
 
----
+<br/>
 
-### What I work with
+<a href="https://buymeacoffee.com/sgnetz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="174" alt="Buy Me A Coffee"></a>
 
-**Daily drivers:** Next.js, React, TypeScript, Tailwind CSS, Sanity, Supabase, PostgreSQL
+</div>
 
-**Also comfortable with:** Node.js, Python, Docker, Prisma, Vite
+<br/>
 
-**Deploy to:** Hetzner / Coolify
+I build web apps end-to-end — from UI to database to deployment. Self-hosted on Hetzner with Coolify because I prefer owning my infrastructure.
+
+<br/>
+
+### Stack
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%"><strong>Frontend</strong><br/><br/>Next.js · React · TypeScript<br/>Tailwind CSS · Vite</td>
+<td align="center" width="33%"><strong>Backend</strong><br/><br/>Sanity · Supabase · PostgreSQL<br/>Node.js · Prisma · Python</td>
+<td align="center" width="33%"><strong>Infrastructure</strong><br/><br/>Hetzner · Coolify · Docker<br/>Vercel · GitHub Actions</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+### Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [lifad.world](https://lifad.world) | Bilingual music fan platform (DE/EN) | Next.js 16, Sanity, Supabase |
+| finscope | Personal finance dashboard | Next.js, Jellyfin SDK, Docker |
+
+<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=netz-sg&label=views&color=10B981&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=netz-sg&label=Profile%20Views&color=10B981&style=flat-square" alt="Profile Views" />
+
+<br/><br/>
+
+<a href="https://github.com/netz-sg">github.com/netz-sg</a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" width="100%" />
