@@ -1,3 +1,5 @@
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/sgnetz)
+
 <!-- HEADER BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=NETZ-SG&fontSize=90&fontAlign=50&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Next.js%20%7C%20Sanity%20%7C%20Supabase&descAlign=50&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
